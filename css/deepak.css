@@ -44,3 +44,34 @@ article p span {
     display: inline-block;
     margin-left: 820px;
 }
+section aside{
+    float: right;
+}
+#mission {
+    height:100px;
+    width:48%;
+    background-color: green;
+}
+#leftside {
+    float: right;
+}
+#left, #right, #middle{
+    margin-top: 20px;
+    width: 32%;
+    height: 300px;
+}
+#left {
+    float: left;
+    background-color: sandybrown;
+}
+#middle {
+    float: right;
+    background-color: green;
+}
+#right {
+    float: right;
+}
+div div h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
