@@ -12,6 +12,9 @@ div a {
     text-transform: uppercase;
     padding-top: 25px;
 }*/
+body {
+    background-color: bisque;
+}
 a {
     text-decoration: none;
     padding-right: 20px;
@@ -26,6 +29,7 @@ a {
     background-color: gold;
     color: pink;
     top: 0px;
+    height: 400px;
 }
 nav img {
     display: inline-block;
@@ -102,6 +106,7 @@ section {
     border: 1px solid black;
     padding: 2px;
     height: 500px;
+    background-color: aqua;
 }
 #step1 {
     float: left;
@@ -111,4 +116,22 @@ section {
 }
 #just {
     text-align: justify;
+}
+#contactaddress {
+    margin-left: 60%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blanchedalmond;
+}
+section #sectioncolor {
+    margin-bottom: 200px;
+    background-color: aqua;
+}
+#contactaddress {
+    padding-top: 10px;
+}
+footer {
+    margin-top: 530px;
+    width: 96%;
+    margin-left: 70%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
