@@ -12,6 +12,9 @@ div a {
     text-transform: uppercase;
     padding-top: 25px;
 }*/
+article {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 body {
     background-color: bisque;
 }
