@@ -29,7 +29,6 @@ a {
     background-color: gold;
     color: pink;
     top: 0px;
-    height: 400px;
 }
 nav img {
     display: inline-block;
@@ -134,4 +133,7 @@ footer {
     width: 96%;
     margin-left: 70%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table {
+    margin-left: 40%;
 }
